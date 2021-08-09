@@ -1,0 +1,4 @@
+pip install scikit-learn
+pip install joblib
+pip install numpy
+pip install python-csv
