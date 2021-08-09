@@ -5,5 +5,5 @@
 * Input the data required for predicting in the `test.csv` file.
 * Install the dependencies.For reference look up the `Requirements.txt` file.
 * Run the `The_Iris_Predictor.py` file.
-* Open the `Results.py` file which will be created upon running the `.py` file.
+* Open the `Results.py` file which will be created upon running the `The_Iris_Predictor.py` file.
 * Yep, just look at the predictions :).
