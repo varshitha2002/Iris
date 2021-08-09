@@ -1,6 +1,6 @@
 # Iris
 
-### A simple Iris Flower predicting software based on the LogisticRegression model.
+### A simple Iris Flower predicting model trained using the scikit learn Iris dataset, based on the LogisticRegression model.
 ### How to use the predictor?
 * Input the data required for predicting in the `test.csv` file.
 * Run the `The_Iris_Predictor.py` file.
